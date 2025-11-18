@@ -1,0 +1,22 @@
+[
+  { "code": "US", "name": "United States", "dialCode": "+1" },
+  { "code": "CA", "name": "Canada", "dialCode": "+1" },
+  { "code": "GB", "name": "United Kingdom", "dialCode": "+44" },
+  { "code": "AU", "name": "Australia", "dialCode": "+61" },
+  { "code": "IN", "name": "India", "dialCode": "+91" },
+  { "code": "DE", "name": "Germany", "dialCode": "+49" },
+  { "code": "FR", "name": "France", "dialCode": "+33" },
+  { "code": "JP", "name": "Japan", "dialCode": "+81" },
+  { "code": "CN", "name": "China", "dialCode": "+86" },
+  { "code": "BR", "name": "Brazil", "dialCode": "+55" },
+  { "code": "MX", "name": "Mexico", "dialCode": "+52" },
+  { "code": "IT", "name": "Italy", "dialCode": "+39" },
+  { "code": "ES", "name": "Spain", "dialCode": "+34" },
+  { "code": "NL", "name": "Netherlands", "dialCode": "+31" },
+  { "code": "SE", "name": "Sweden", "dialCode": "+46" },
+  { "code": "NO", "name": "Norway", "dialCode": "+47" },
+  { "code": "DK", "name": "Denmark", "dialCode": "+45" },
+  { "code": "FI", "name": "Finland", "dialCode": "+358" },
+  { "code": "PL", "name": "Poland", "dialCode": "+48" },
+  { "code": "CH", "name": "Switzerland", "dialCode": "+41" }
+]
